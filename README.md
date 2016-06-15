@@ -13,5 +13,3 @@ In this wiki, you will find documentation about these projects.
 5. 'Round-up Robot'
 
 To learn about these projects, visit this [wiki](https://github.com/MozillaFoundation/HiveNYC/wiki).
-
-To contact Hive NYC staff, email [info@hivenyc.org](mailto:info@hivenyc.org).
