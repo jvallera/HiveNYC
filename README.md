@@ -1,6 +1,6 @@
-#About this Hive NYC Wiki and Code Repository
+#Welcome
 
-Between November 2015 and June 30 2016, the Hive NYC Community Coordinator spearheaded a series of projects in collaboration with the Hive NYC Network Manager, which centered around streamlining communications procedures and building systems to track and manage member engagement.
+Between November 2015 and June 2016, the Hive NYC Community Coordinator spearheaded a series of projects in collaboration with the Hive NYC Network Manager, which centered around streamlining communications procedures and building systems to track and manage member engagement.
 
 Documentation for these projects can be found on the [wiki page](https://github.com/MozillaFoundation/HiveNYC/wiki) of this repository.
 
