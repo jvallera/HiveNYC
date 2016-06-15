@@ -1,4 +1,6 @@
-#Welcome!
+![Hive NYC Logo](http://hivenyc.org/wp-content/uploads/Mozilla_HiveNYC_Official_LOG0x2501.png)
+
+# Welcome!
 
 Between November 2015 and June 2016, the Hive NYC Community Coordinator, in collaboration with the Network Manager, spearheaded a set of projects designed to help us streamline communications and track member engagement.
  
@@ -11,6 +13,8 @@ We have documented these projects for the benefit of current and future Hive NYC
 3. Email Templates
 4. Network Analytics
 5. 'Round-up Robot'
+
+To learn more about Hive NYC, visit our [website](http://hivenyc.org).
 
 
 
