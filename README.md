@@ -10,7 +10,7 @@ We have documented these projects for the benfit of current and future Hive NYC 
 4. Network Analytics
 5. 'Round-up Robot'
 
-**To learn about these projects, visit this [wiki](https://github.com/MozillaFoundation/HiveNYC/wiki).**
+### To learn about these projects, visit this [wiki](https://github.com/MozillaFoundation/HiveNYC/wiki).
 
 
 
