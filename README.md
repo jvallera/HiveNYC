@@ -2,7 +2,7 @@
 
 Between November 2015 and June 2016, the Hive NYC Community Coordinator spearheaded a series of projects in collaboration with the Hive NYC Network Manager, which centered around streamlining communications procedures and building systems to track and manage member engagement.
 
-We have documented these projects for the benfit of current and future Hive NYC staff and in an effort to [Work Open](), which is a core principal of Mozilla Foundation.
+We have documented these projects for the benfit of current and future Hive NYC staff and in an effort to [Work Open](), which is a core principal of [Mozilla Foundation](https://www.mozilla.org/en-US/foundation/about/).
 
 Projects documented in this wiki include:
 
@@ -12,6 +12,6 @@ Projects documented in this wiki include:
 4. Network Analytics
 5. 'Round-up robot' Email Bot
 
-To learn about these projects, please refer to our [wiki](https://github.com/MozillaFoundation/HiveNYC/wiki) of this repository).
+To learn about these projects, please refer to this [wiki](https://github.com/MozillaFoundation/HiveNYC/wiki).
 
 To contact Hive NYC staff, please email [info@hivenyc.org](mailto:info@hivenyc.org).
