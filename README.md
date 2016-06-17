@@ -8,13 +8,12 @@ We have documented these projects for the benefit of current and future Hive NYC
 
 ### To learn about these projects, visit this [wiki](https://github.com/MozillaFoundation/HiveNYC/wiki).
 
-1. Member Database
+1. Membership Database
 2. Community Map
-3. Email Templates
-4. Network Analytics
-5. 'Round-up Robot'
+3. 'Round-up Robot'
+4. Analytics
 
-To learn more about Hive NYC, visit our [website](http://hivenyc.org).
+*To learn more about Hive NYC, visit our [website](http://hivenyc.org).*
 
 
 
