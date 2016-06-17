@@ -13,7 +13,7 @@ We have documented projects listed below for the benefit of current and future H
 
 All of the resources for these projects are in this [GDrive Folder](https://drive.google.com/a/mozilla.com/folderview?id=0B5ga06pZVp55b2VjUVdOamlMTk0&usp=sharing), which is only accessible to Mozilla staff.
 
-###Anyone can learn about these projects, however, by visiting this [wiki](https://github.com/MozillaFoundation/HiveNYC/wiki).
+###Anyone can learn about these projects by visiting this [wiki](https://github.com/MozillaFoundation/HiveNYC/wiki).
 
 
 
