@@ -9,7 +9,7 @@ Between November 2015 and June 2016, the Hive NYC Community Coordinator, in coll
 3. 'Round-up Robot'
 4. Analytics Dashboard
  
-We make our efforts public for the benefit of current and future Hive NYC staff in the spirit of [Working Open](https://wiki.mozilla.org/Working_open), which is core to the mission of [Mozilla Foundation](https://www.mozilla.org/en-US/foundation/about/).
+We are making our efforts public for the benefit of current and future Hive NYC staff and in the spirit of [Working Open](https://wiki.mozilla.org/Working_open), which is core to the mission of [Mozilla Foundation](https://www.mozilla.org/en-US/foundation/about/).
 
 
 
