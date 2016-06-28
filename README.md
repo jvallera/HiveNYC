@@ -15,7 +15,7 @@ We are making our efforts public for the benefit of current and future Hive NYC 
 
 All of the resources for these projects are in this [GDrive Folder](https://drive.google.com/a/mozilla.com/folderview?id=0B5ga06pZVp55b2VjUVdOamlMTk0&usp=sharing), which is only accessible to Mozilla staff.
 
-###Everyone is invited to learn more [here](https://github.com/MozillaFoundation/HiveNYC/wiki).
+###Everyone is invited to learn more [here](https://github.com/jvallera/HiveNYC/wiki).
 
 
 
